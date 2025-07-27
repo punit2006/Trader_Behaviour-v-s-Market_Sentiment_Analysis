@@ -96,6 +96,13 @@ Ensure `historical_data.csv` and `fear_greed_index.csv` are placed in the approp
 * Integrating sentiment with trading data provides actionable insights for risk management and strategy optimization.
 
 ---
+## CSV_FILES
+
+fear_greed_index : https://drive.google.com/file/d/1tqHB1jpkbKIfOS5Wcazvl_pwwfAXvLvW/view?usp=sharing
+
+historical_data : https://drive.google.com/file/d/1hnMoYilDVY7MSteBtV9yObzlKKXMb5_3/view?usp=sharing
+
+---
 
 ## 📮 Contact
 
