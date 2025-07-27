@@ -107,6 +107,6 @@ historical_data : https://drive.google.com/file/d/1hnMoYilDVY7MSteBtV9yObzlKKXMb
 ## 📮 Contact
 
 For questions or collaboration:
-✉️ Linkedin: www.linkedin.com/in/punitjain163
 
+✉️ Linkedin: www.linkedin.com/in/punitjain163
 📬 Email: punit163.work@gmail.com
