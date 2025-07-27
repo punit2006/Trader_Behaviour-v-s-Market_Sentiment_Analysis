@@ -1,7 +1,3 @@
-Here’s a professional and informative `README.md` file for your project **Trader Behaviour vs Market Sentiment Analysis** based on the provided Python script:
-
----
-
 # 📊 Trader Behaviour vs Market Sentiment Analysis
 
 This project explores the relationship between **trader behaviour** (based on historical trade data) and **market sentiment** (based on the Bitcoin Fear & Greed Index). It analyzes how market emotions impact trading outcomes like **Profit & Loss (PnL)** and **Trade Volume**.
